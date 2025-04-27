@@ -18,6 +18,6 @@ everything is intended for **educational** and **research** purposes only.
 
 ---
 
-## 📜 Licenseing
+## 📜 Licensing
 
 Everything is MIT Licensed. Use code but credit me :)
