@@ -15,7 +15,7 @@ everything is intended for **educational** and **research** purposes only.
 - [AMSI Bypass](https://github.com/MpCmdRun/Amsi-Patch)
 - [ETW Patcher](https://github.com/MpCmdRun/Etw-Patch)
 - [Chromium Decryptor](https://github.com/MpCmdRun/Chromium-Decryptor)
-- [Reset Survival](https://github.com/MpCmdRun/Reset-Survival)
+- [WinRE Persistance](https://github.com/MpCmdRun/Reset-Survival)
 
 ---
 
