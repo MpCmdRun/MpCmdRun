@@ -14,7 +14,7 @@ everything is intended for **educational** and **research** purposes only.
 - [UAC Bypass](https://github.com/MpCmdRun/uac-bypass)
 - [AMSI Bypass](https://github.com/MpCmdRun/Amsi-Patch)
 - [ETW Patcher](https://github.com/MpCmdRun/Etw-Patch)
-- [Chromium Decrypter](https://github.com/MpCmdRun/Chromium-Decryptor)
+- [Chromium Decryptor](https://github.com/MpCmdRun/Chromium-Decryptor)
 
 ---
 
