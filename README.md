@@ -25,6 +25,7 @@ Use responsibly and only in environments where you have explicit permission.
 | [Chromium Decryptor](https://github.com/MpCmdRun/Chromium-Decryptor) | Extract saved passwords and cookies from Chromium browsers |
 | [WinRE Persistence](https://github.com/MpCmdRun/Reset-Survival) | Achieve persistence using Windows Recovery Environment |
 | [0x0 Crypter](https://github.com/MpCmdRun/0x0-Crypter) | Simple .NET crypter for payload obfuscation |
+| [TraceCraft](https://github.com/MpCmdRun/TraceCraft) | Simple .NET ETW Util/Tool for blue teamers/red teamers to learn more about windows internals |
 
 ---
 
